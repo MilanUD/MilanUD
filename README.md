@@ -1,5 +1,5 @@
 ## 👋 About Me
-🎓 **Computer Science Student** | Experience with **C#**, **Angular**, **Java**, **Vue.js**, **WPF**  
+🎓 **Computer Science Student** | Experience with **.NET**, **Angular**, **Java**, **Vue.js**, **WPF**  
 🚀 Passionate about solving complex problems and learning new technologies!
 ## 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanUD&show_icons=true&theme=radical)
